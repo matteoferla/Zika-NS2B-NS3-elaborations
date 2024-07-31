@@ -7,6 +7,11 @@ I did two initial iteration of elaborations for this target, but did not release
 as these were no longer required.
 This repo was made for the curated elaborations.
 
+### Context
+The catalytic triad is Asp75, His51 and Ser135
+
+![img.png](images/consensus.png)
+
 ### Curated set
 **Dataset**: [manual-designs.sdf](compounds/manual-designs.sdf)
 **Notebook**: [manual-designs.ipynb](notebooks/manual-designs.ipynb)
